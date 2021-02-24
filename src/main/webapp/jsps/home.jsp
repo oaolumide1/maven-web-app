@@ -21,7 +21,7 @@
 		<img src="images/logo.png" alt="" width="200">
 	</span>
 	<span style="font-weight: bold;">
-		Landmark Technology, 
+		Landmark Technologies and Lion Tech, 
 		Toronto, Ontario, Canada
 		Dallas, TX USA, 
 		+1 437 215 2483,
